@@ -29,7 +29,7 @@ function Nav() {
             </Link>
 
             <Link className="navLink" to="/info">
-              Info Page
+              Solo Spike
             </Link>
 
             <LogOutButton className="navLink" />
